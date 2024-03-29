@@ -1,0 +1,6 @@
+rootProject.name = 'usando-arquitetura-limpa'
+include 'core'
+include 'usecase'
+include 'application'
+include 'infrastruture'
+
